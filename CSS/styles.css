@@ -1,0 +1,100 @@
+
+body{
+  font-family: 'Merriweather', serif;
+  text-align: center;
+}
+
+h1{
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #66BFBF;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+}
+
+p{
+  color: #40514E;
+
+  line-height: 2;
+}
+
+hr{
+  margin: 100px auto 100px auto;
+  border-style: dotted none none;
+  border-width: 5px;
+  border-color: grey;
+  width: 5%;
+  height: 0px;
+}
+
+a{
+  text-decoration: none;
+}
+
+a:hover{
+  color: #4a4d4a;
+}
+
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.btn{
+  color: #11999E;
+}
+
+.insta{
+  color: #11999E;
+}
+
+.chess{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.football{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.top-container{
+  background-color: #EAF6F6;
+}
+
+.cloud1{
+  position: relative;
+  right: 20%;
+  margin-top: 5%;
+}
+
+.cloud2{
+  position: absolute;
+  right: 20%;
+}
+
+.profile-photo{
+  border-radius: 50%;
+
+}
+
+.middle-container{
+  margin: 100px auto 100px auto;
+}
+
+#student{
+  font-weight: normal;
+}
